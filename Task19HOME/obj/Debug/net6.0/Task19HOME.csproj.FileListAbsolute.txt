@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar3\Task19HOME\bin\Debug\net6.0\Task19HOME.exe
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar3\Task19HOME\bin\Debug\net6.0\Task19HOME.deps.json
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar3\Task19HOME\bin\Debug\net6.0\Task19HOME.runtimeconfig.json
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar3\Task19HOME\bin\Debug\net6.0\Task19HOME.dll
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar3\Task19HOME\bin\Debug\net6.0\Task19HOME.pdb
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar3\Task19HOME\obj\Debug\net6.0\Task19HOME.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar3\Task19HOME\obj\Debug\net6.0\Task19HOME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar3\Task19HOME\obj\Debug\net6.0\Task19HOME.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar3\Task19HOME\obj\Debug\net6.0\Task19HOME.AssemblyInfo.cs
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar3\Task19HOME\obj\Debug\net6.0\Task19HOME.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar3\Task19HOME\obj\Debug\net6.0\Task19HOME.dll
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar3\Task19HOME\obj\Debug\net6.0\refint\Task19HOME.dll
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar3\Task19HOME\obj\Debug\net6.0\Task19HOME.pdb
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar3\Task19HOME\obj\Debug\net6.0\Task19HOME.genruntimeconfig.cache
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar3\Task19HOME\obj\Debug\net6.0\ref\Task19HOME.dll
