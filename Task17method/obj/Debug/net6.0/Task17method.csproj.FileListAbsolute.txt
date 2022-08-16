@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar3\Task17method\obj\Debug\net6.0\Task17method.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar3\Task17method\obj\Debug\net6.0\Task17method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar3\Task17method\obj\Debug\net6.0\Task17method.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar3\Task17method\obj\Debug\net6.0\Task17method.AssemblyInfo.cs
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar3\Task17method\obj\Debug\net6.0\Task17method.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar3\Task17method\bin\Debug\net6.0\Task17method.exe
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar3\Task17method\bin\Debug\net6.0\Task17method.deps.json
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar3\Task17method\bin\Debug\net6.0\Task17method.runtimeconfig.json
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar3\Task17method\bin\Debug\net6.0\Task17method.dll
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar3\Task17method\bin\Debug\net6.0\Task17method.pdb
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar3\Task17method\obj\Debug\net6.0\Task17method.dll
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar3\Task17method\obj\Debug\net6.0\refint\Task17method.dll
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar3\Task17method\obj\Debug\net6.0\Task17method.pdb
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar3\Task17method\obj\Debug\net6.0\Task17method.genruntimeconfig.cache
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar3\Task17method\obj\Debug\net6.0\ref\Task17method.dll
